@@ -2,7 +2,7 @@
 
 ### 作者
 
-> 福州亮剑网络技术有限公司旗下Discuz!亮剑云工作室, 应用中心首页：http://addon.discuz.com/?@liangjian
+福州亮剑网络技术有限公司旗下Discuz!亮剑云工作室, 应用中心首页：http://addon.discuz.com/?@liangjian
 
 ### 荣誉
 
