@@ -31,7 +31,7 @@ Discuz!十大优秀应用开发团队，成立于2012年，创始人余新启，
 
 ### 截图
 
-![Discuz!关闭电脑端插件截图](http://addon.discuz.com/resource/preview/30020/0.jpg?6lC3b)
+![Discuz!关闭电脑端插件截图](https://github.com/yuxinqi/img/blob/master/0.jpg)
 
 **搭配手机登录注册模板插件使用效果更佳， 详情请点击 http://addon.discuz.com/?@aljlogin.plugin**
 
